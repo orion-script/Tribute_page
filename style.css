@@ -1,0 +1,52 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1em;
+    margin: 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.header {
+    background: chartreuse;
+    text-align: center;
+    padding: 5em;
+}
+
+.header p {
+    padding: 2em;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    background: #FFF;
+}
+
+.paragraph {
+    text-align: center;
+    background: #FFF;
+}
+
+.history {
+    background: chartreuse;
+    padding: 5em 5em ;
+}
+
+.history h2 {
+    text-align: center;
+    padding: 1em;
+}
+
+.history ul {
+    padding: 5px 9em;
+}
+
+.history p {
+    text-align: center;
+    padding: 2em;
+}
+
+.history h3 {
+    text-align: center;
+}
